@@ -16,7 +16,7 @@ The goal was to replicate its **modern design, smooth animations, and interactiv
 ## 🛠 Tech Stack
 - **HTML5** – Semantic markup
 - **CSS3** – Flexbox, Grid, animations, and transitions
-- **JavaScript (ES6)** – DOM manipulation & interactivity
+- **JavaScript (ES6)** – DOM manipulation,GSAP & interactivity
 
 ---
 
