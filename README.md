@@ -43,6 +43,12 @@ Mobile and tablet support is not included.
 [Click here to view the project](https://imafrah.github.io/LAZAREV/) 
 
 ---
+## 🛠 Skills Practiced
+- Semantic HTML
+- CSS Flexbox & Grid
+- JavaScript DOM manipulation
+- Animation & transitions
+- Design recreation from reference
 
 ## 📄 Disclaimer
 This is a **non-commercial, educational project**.  
