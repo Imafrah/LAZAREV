@@ -33,15 +33,16 @@ This project was created **for learning purposes** to:
 
 ---
 
-## 🚀 Live Demo
-[Click here to view the project](https://imafrah.github.io/LAZAREV/) 
-
----
 ![Static Badge](https://img.shields.io/badge/Device-Desktop%20Only-red?style=for-the-badge)
 
 This project is **optimized for desktop/laptop screens**.  
 Mobile and tablet support is not included.
 
+
+## 🚀 Live Demo
+[Click here to view the project](https://imafrah.github.io/LAZAREV/) 
+
+---
 
 ## 📄 Disclaimer
 This is a **non-commercial, educational project**.  
